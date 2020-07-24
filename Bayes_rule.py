@@ -10,7 +10,7 @@ Confidence ellipses summarize the information of the dataset with only four para
     Height and width: Related with the variance of each attribute. The user must specify the desired amount of standard deviations used to plot the ellipse.
     Angle: Related with the covariance among attributes.
 '''
-
+# better not to upate anything before iploading into github
 from util_s import process_tweet, lookup
 import pdb
 from nltk.corpus import stopwords, twitter_samples
